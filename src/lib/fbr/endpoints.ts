@@ -1,3 +1,4 @@
+import "server-only";
 import type { Environment } from "./types";
 
 const FBR_BASE = "https://gw.fbr.gov.pk";
